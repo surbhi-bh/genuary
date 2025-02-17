@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/surbhi-bh/genuary2025/blob/main/genuary_01/genuary_01_lines.png">
+      <a href="https://github.com/surbhi-bh/genuary/blob/main/2025/genuary_01_lines.png">
         <img src="2025/genuary_01_lines.png" alt="Vertical or horizontal lines only." width="200" height="200" />
         <br/>JAN. 1: Vertical or horizontal lines only
       </a>
