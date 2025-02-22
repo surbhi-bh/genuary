@@ -6,7 +6,7 @@
     <td align="center">
       <a href="https://github.com/surbhi-bh/genuary/blob/main/2025/genuary_01_lines.png">
         <img src="2025/genuary_01_lines.png" alt="Vertical or horizontal lines only." width="200" height="200" />
-        <br/>JAN. 1: Vertical or horizontal lines only
+        <br/>Jan 1: Vertical or horizontal lines only
       </a>
     </td>
     <td align="center">
@@ -96,9 +96,9 @@
       </a>
     </td>
     <td align="center">
-      <a href="genuary_15/genuary_15_rug.png">
-        <img src="genuary_15/genuary_15_rug.png" alt="Design a rug." width="200" height="200" />
-        <br/>JAN. 15: Design a rug
+      <a href="https://github.com/surbhi-bh/genuary/blob/main/2025/genuary_15_rug.png">
+        <img src="2025/genuary_15_rug.png" alt="Design a rug." width="200" height="200" />
+        <br/>Jan 15: Design a rug
       </a>
     </td>
   </tr>
